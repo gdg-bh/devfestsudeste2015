@@ -1,4 +1,5 @@
-# devfest2015
-Material Design Template for DevFest 2015 Season
+# DevFest Sudeste 2015
 
-Demo you can find here: http://vg.am/devfest
+Site do DevFest Sudeste 2015, que acontecerá na cidade de Belo Horizonte em 24 de Outubro de 2015.
+
+Inspirado em: http://vg.am/devfest
